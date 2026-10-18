@@ -249,3 +249,4 @@ The functions below extend the above table for material in Week 8 (`classificati
 | ---------------------------------------- | --------------------------------------------------------------------------- |
 | `quantile(data, percentiles)`            | Finds the specified percentiles in the given data                           |
 | `rep_sample_n(tbl, size, reps, replace)` | Takes samples of the table according to the size, reps, and replace options |
+test
